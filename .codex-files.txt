@@ -1,0 +1,12 @@
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\App.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\components.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\content.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\data.js
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\HomeEffects.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\main.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\motion.js
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\pages.css
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\pages.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\PortfolioAbout.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\PortfolioDetail.jsx
+C:\Users\erism\Documents\GitHub\eris-portfolio\src\PortfolioHome.jsx
