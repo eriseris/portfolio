@@ -12,7 +12,7 @@ const photographyHoverCovers={"gulfood-2025":"gulfood.jpg","dubai-airshow-2025":
 
 export default function PortfolioHome(){
   const {projects,services,testimonials}=useContent();
-  const selectedProjects=selectedWorkTypes.map(type=>projects.find(project=>project.tags?.includes(type))).filter(Boolean);
+  const selectedProjects=selectedWorkTypes.map(type=>type==="Photography & Photo Editing"?projects.find(project=>project.slug==="dubai-autodrome-24h-series-2025"):projects.find(project=>project.tags?.includes(type))).filter(Boolean);
   const designerPortrait=publicAsset("assets/portfolio/eris-portrait-ph5.webp");
   return <>
     <motion.section className="hero portfolio-hero shell" variants={stagger} initial="hidden" animate="visible">
